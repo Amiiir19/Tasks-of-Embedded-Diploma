@@ -1,0 +1,4 @@
+﻿  Module.ixx
+  Source.c
+D:\2. KEROLOS Embedded\Unit 2\Lesson 3 C Basics\Home Work 2\Source.c(106,6): warning C4013: 'isalpha' undefined; assuming extern returning int
+  Home Work 2.vcxproj -> D:\2. KEROLOS Embedded\Unit 2\Lesson 3 C Basics\Home Work 2\x64\Debug\Home Work 2.exe
