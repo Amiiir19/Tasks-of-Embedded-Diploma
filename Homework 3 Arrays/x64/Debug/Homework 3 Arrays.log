@@ -1,0 +1,4 @@
+﻿  Source.c
+D:\2. KEROLOS Embedded\Tasks of Embedded Diploma\Homework 3 Arrays\Source.c(182,2): warning C4013: 'gets' undefined; assuming extern returning int
+D:\2. KEROLOS Embedded\Tasks of Embedded Diploma\Homework 3 Arrays\Source.c(185,15): warning C4013: 'strlen' undefined; assuming extern returning int
+  Homework 3 Arrays.vcxproj -> D:\2. KEROLOS Embedded\Tasks of Embedded Diploma\Homework 3 Arrays\x64\Debug\Homework 3 Arrays.exe
